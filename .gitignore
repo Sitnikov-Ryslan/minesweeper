@@ -8,11 +8,9 @@ target/
 *.iml
 *.iws
 *.jrtc
-*.java
-*.class
 *.info
 *.properties
-*.jar
+
 
 /1.JavaSyntax/
 /2.JavaCore/
@@ -24,3 +22,4 @@ target/
 /Instruction.png
 /out.log
 /out.log.*
+/8.Games/src/com/javarush/games/minigames/
